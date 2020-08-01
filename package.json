@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-axios-interceptor-response-time",
+  "name": "axios-interceptor-response-time",
   "version": "1.0.2",
   "description": "An interceptor which sets http request started time (UTC format) and response elapsed time (in milliseconds) when calling an endpoint in Axios.",
   "scripts": {
