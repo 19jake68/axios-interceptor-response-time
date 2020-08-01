@@ -16,13 +16,13 @@ An interceptor which sets http request started time (UTC format) and response el
 
 1. Install the package on NPM
 ```bash
-npm i -S 19jake68/nodejs-axios-interceptor-response-time
+npm i -S npm i axios-interceptor-response-time
 ```
 2. Add the package in your entry file, for example, app.js
 ```bash
 const express = require('express');
 ...
-const axiosInterceptorResponseTime = require('nodejs-axios-interceptor-response-time')
+const axiosInterceptorResponseTime = require('axios-interceptor-response-time')
 
 // Run axios interceptor in middleware
 app.use((req, res, enxt) => {
