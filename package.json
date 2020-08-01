@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/19jake68/nodejs-axios-interceptor-time.git"
+    "url": "git@github.com:19jake68/nodejs-axios-interceptor-response-time.git"
   },
   "keywords": [
     "nodejs",
