@@ -1,10 +1,9 @@
 {
   "name": "nodejs-axios-interceptor-time",
   "version": "1.0.0",
-  "description": "An axios interceptor to set time requested and elapsed time when calling axios method",
-  "main": "axios-interceptor.js",
+  "description": "An interceptor which sets http request started time (UTC format) and response elapsed time (in milliseconds) when calling an endpoint in Axios.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
