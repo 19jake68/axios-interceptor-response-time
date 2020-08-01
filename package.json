@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-axios-interceptor-time",
+  "version": "1.0.0",
+  "description": "An axios interceptor to set time requested and elapsed time when calling axios method",
+  "main": "axios-interceptor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19jake68/nodejs-axios-interceptor-time.git"
+  },
+  "keywords": [
+    "nodejs",
+    "axios",
+    "interceptors",
+    "expressjs",
+    "node",
+    "request",
+    "response",
+    "elapsed",
+    "time",
+    "date"
+  ],
+  "author": "Jake Ortega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/19jake68/nodejs-axios-interceptor-time/issues"
+  },
+  "homepage": "https://github.com/19jake68/nodejs-axios-interceptor-time#readme"
+}
